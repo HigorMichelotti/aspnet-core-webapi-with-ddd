@@ -15,8 +15,8 @@ namespace ProjetoTeste.WebApi.Controllers
         private readonly string _caminhoImagem;
         public UploadArquivosController()
         {
-            //_caminhoImagem = @"C:/xampp/htdocs/arquivos-teste/"; // (Apache) Caso queira que as imagens apareçam no front basta salvar neste diretório e rodar o apache :)
-            _caminhoImagem = @"C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\1 - Service\ProjetoTeste.WebApi\"; // (Diretório do projeto) É necessário trocar o diretorio de acordo com seu computador
+            _caminhoImagem = @"C:/xampp/htdocs/arquivos-teste/"; // (Apache) Caso queira que as imagens apareçam no front basta salvar neste diretório e rodar o apache :)
+            //_caminhoImagem = @"C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\1 - Service\ProjetoTeste.WebApi\"; // (Diretório do projeto) É necessário trocar o diretorio de acordo com seu computador ;)
         }
 
         [HttpPost]
