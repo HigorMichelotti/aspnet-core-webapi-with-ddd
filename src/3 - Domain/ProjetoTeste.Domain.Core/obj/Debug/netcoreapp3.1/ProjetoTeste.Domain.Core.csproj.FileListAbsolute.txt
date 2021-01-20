@@ -1,0 +1,9 @@
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\3 - Domain\ProjetoTeste.Domain.Core\bin\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.deps.json
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\3 - Domain\ProjetoTeste.Domain.Core\bin\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.dll
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\3 - Domain\ProjetoTeste.Domain.Core\bin\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.pdb
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\3 - Domain\ProjetoTeste.Domain.Core\obj\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.csprojAssemblyReference.cache
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\3 - Domain\ProjetoTeste.Domain.Core\obj\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\3 - Domain\ProjetoTeste.Domain.Core\obj\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.AssemblyInfo.cs
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\3 - Domain\ProjetoTeste.Domain.Core\obj\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\3 - Domain\ProjetoTeste.Domain.Core\obj\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.dll
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\3 - Domain\ProjetoTeste.Domain.Core\obj\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.pdb

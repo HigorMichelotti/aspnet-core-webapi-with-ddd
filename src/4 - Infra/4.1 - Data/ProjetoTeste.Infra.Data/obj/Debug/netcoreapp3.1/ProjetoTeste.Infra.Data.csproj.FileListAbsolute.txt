@@ -1,0 +1,14 @@
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.deps.json
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.dll
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.pdb
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.dll
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoTeste.Domain.dll
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoTeste.Domain.pdb
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoTeste.Domain.Core.pdb
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.csprojAssemblyReference.cache
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.AssemblyInfo.cs
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.csproj.CopyComplete
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.dll
+C:\Users\higor.michelotti\source\repos\ProjetoTeste.WebApi\src\4 - Infra\4.1 - Data\ProjetoTeste.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoTeste.Infra.Data.pdb
