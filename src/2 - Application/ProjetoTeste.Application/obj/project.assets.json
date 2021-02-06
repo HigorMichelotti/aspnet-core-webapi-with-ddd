@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\ProjetoTeste.Application.csproj",
+      "projectUniqueName": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\ProjetoTeste.Application.csproj",
       "projectName": "ProjetoTeste.Application",
-      "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\ProjetoTeste.Application.csproj",
+      "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\ProjetoTeste.Application.csproj",
       "packagesPath": "C:\\Users\\higor.michelotti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\obj\\",
+      "outputPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -79,11 +79,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj"
+            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj"
             },
-            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain\\ProjetoTeste.Domain.csproj": {
-              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain\\ProjetoTeste.Domain.csproj"
+            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain\\ProjetoTeste.Domain.csproj": {
+              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain\\ProjetoTeste.Domain.csproj"
             }
           }
         }

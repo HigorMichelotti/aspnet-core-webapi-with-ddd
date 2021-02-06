@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnreiVYjjkZ6aQt2/bwEI3P/kYTwTmknN7Uonu2hpYy5OIYACXQ8IUsPpmqk3i8zCKzjdnoAwKhWYgovPYW68w==",
+  "dgSpecHash": "VPBj+2B9buyTG1Qo630vJse80lEadXVfqoUPoNwgPH23qQlqxvkS+Pb5aMOg5kCzdKBntrlMQmToA7bx+kt85w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\higor.michelotti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\higor.michelotti\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

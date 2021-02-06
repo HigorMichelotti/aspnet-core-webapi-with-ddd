@@ -761,11 +761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\1 - Service\\ProjetoTeste.WebApi\\ProjetoTeste.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\1 - Service\\ProjetoTeste.WebApi\\ProjetoTeste.WebApi.csproj",
       "projectName": "ProjetoTeste.WebApi",
-      "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\1 - Service\\ProjetoTeste.WebApi\\ProjetoTeste.WebApi.csproj",
+      "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\1 - Service\\ProjetoTeste.WebApi\\ProjetoTeste.WebApi.csproj",
       "packagesPath": "C:\\Users\\higor.michelotti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\1 - Service\\ProjetoTeste.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\1 - Service\\ProjetoTeste.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -787,8 +787,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj"
+            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj"
             }
           }
         }

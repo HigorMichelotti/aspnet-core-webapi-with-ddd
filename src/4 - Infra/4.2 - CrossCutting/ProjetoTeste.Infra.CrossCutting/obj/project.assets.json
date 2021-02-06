@@ -561,11 +561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj",
       "projectName": "ProjetoTeste.Infra.CrossCutting",
-      "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj",
+      "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\ProjetoTeste.Infra.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\higor.michelotti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\obj\\",
+      "outputPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.2 - CrossCutting\\ProjetoTeste.Infra.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -587,14 +587,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\ProjetoTeste.Application.csproj": {
-              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\ProjetoTeste.Application.csproj"
+            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\ProjetoTeste.Application.csproj": {
+              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\2 - Application\\ProjetoTeste.Application\\ProjetoTeste.Application.csproj"
             },
-            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain\\ProjetoTeste.Domain.csproj": {
-              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain\\ProjetoTeste.Domain.csproj"
+            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain\\ProjetoTeste.Domain.csproj": {
+              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain\\ProjetoTeste.Domain.csproj"
             },
-            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.1 - Data\\ProjetoTeste.Infra.Data\\ProjetoTeste.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.1 - Data\\ProjetoTeste.Infra.Data\\ProjetoTeste.Infra.Data.csproj"
+            "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.1 - Data\\ProjetoTeste.Infra.Data\\ProjetoTeste.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\4 - Infra\\4.1 - Data\\ProjetoTeste.Infra.Data\\ProjetoTeste.Infra.Data.csproj"
             }
           }
         }

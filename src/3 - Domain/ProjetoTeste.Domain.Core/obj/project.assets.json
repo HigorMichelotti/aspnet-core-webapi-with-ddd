@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj",
       "projectName": "ProjetoTeste.Domain.Core",
-      "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj",
+      "projectPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\higor.michelotti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\obj\\",
+      "outputPath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

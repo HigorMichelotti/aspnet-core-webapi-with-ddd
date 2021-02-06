@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VHFURrivKhywhN7f7ARtepuVyPHr9oRMSyRBVY36ObAshwATyYe2QOID6q5M9Vbi/T776QEmsxvY9w/VNRyZg==",
+  "dgSpecHash": "uc8cHTi4wcdsjsO+PaZ3kPCQNMUOavTUVLqTBfj/J03WUxflK+x7QrXlwjTPERgJv3tdDbXpFalPb9grmgcevQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj",
+  "projectFilePath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\3 - Domain\\ProjetoTeste.Domain.Core\\ProjetoTeste.Domain.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

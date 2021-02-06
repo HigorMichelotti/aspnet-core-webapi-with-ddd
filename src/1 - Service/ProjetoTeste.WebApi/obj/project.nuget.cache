@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fTseO/Ni6H4rzBmsXgnwHLLPNRVpWnM4kYPIzYH2k00b5JpuDMONrE4Cg2re/XqmI5v0Bzb7bZ5dZ32Bs7MVXg==",
+  "dgSpecHash": "/wKoveYbm+MDGejQn1/QJ1pN+PbhcKhvFkBGEJ/5whu8sZSp2XDGSbnUGMCOPp7FFy+c/Gf9enkM3CVu6n4uEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste.WebApi\\src\\1 - Service\\ProjetoTeste.WebApi\\ProjetoTeste.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\higor.michelotti\\source\\repos\\ProjetoTeste - Front, Back e Script\\ProjetoTeste.WebApi\\src\\1 - Service\\ProjetoTeste.WebApi\\ProjetoTeste.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\higor.michelotti\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\higor.michelotti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
